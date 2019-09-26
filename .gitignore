@@ -15,3 +15,7 @@
 
 # StarterContent to ignore for the lesson
 BuildingEscape/Content/StarterContent/
+
+BuildingEscape/\.vs/BuildingEscape/v14/\.suo
+
+BuildingEscape/\.vs/BuildingEscape/v14/
